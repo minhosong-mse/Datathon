@@ -17,6 +17,22 @@
 
 ---
 
+## Program Completion
+
+SSU Datathon 2025에서 학술논문 데이터를 활용한 연구 트렌드 분석 프로젝트를 수행하고 전체 과정을 수료했습니다.
+
+<p align="center">
+  <a href="./ssu_datathon_completion_public.png">
+    <img src="./ssu_datathon_completion_public.png"
+         width="48%"
+         alt="SSU Datathon 2025 수료증">
+  </a>
+</p>
+
+<p align="center">
+  <sub>Official Completion Certificate · SSU Datathon 2025</sub>
+</p>
+
 ## Project Summary
 
 본 프로젝트는 **SSU 데이터톤 2025**에서 수행한 반도체 연구 트렌드 분석 프로젝트입니다.
